@@ -3,7 +3,7 @@
 buildscript {
 
   // The latest "stable" kotlin version
-  ext.kotlin_version = "0.14.451"
+  ext.kotlin_version = "1.0.0-beta-1038"
 
     // We specify the repositories that host the dependencies
     repositories {
